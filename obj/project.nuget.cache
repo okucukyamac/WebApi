@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oiTKplVnJ/Er5XrTScAJMMYDOVsWd62K1Eg4dwMdVRPjX91DUONTS5VnrsAlk0ibGSkSZZT3b86+M6RuppKh+g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Mebasoft\\source\\repos\\pratiklerPatika\\Hello\\HelloWebApi\\HelloWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mebasoft\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mebasoft\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mebasoft\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Mebasoft\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Mebasoft\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Mebasoft\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
